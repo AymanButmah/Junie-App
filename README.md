@@ -12,6 +12,7 @@ To run the server on ```localhost 5000```:
 •	node server.js #Manual Run
 ```
 
+
  To run the client on ```localhost 3000```:
 ```sh
 •	cd client

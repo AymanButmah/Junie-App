@@ -1,5 +1,5 @@
 # Event-Tracker
- This is a MERN stack application called Event Tracker that allows the user to create tasks and set Day & time also Reminder. The main goal of this application is to try how to dockerize mern apps using Docker.
+ This is a MERN stack application called Junie App that allows the user to create tasks and set Day & time also Reminder. The main goal of this application is to try how to dockerize mern apps using Docker.
  
 ## Configuration
 
